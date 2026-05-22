@@ -1,10 +1,8 @@
-# Hey, I'm Anand Raj! 👋
+# Hey, I'm Anand! 👋
 
-![Anand's Tech Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=61DAFB&background=1E222B&width=500&lines=Frontend+Engineer+%F0%9F%92%BB;React+%26+TypeScript+Nerd+%E2%9A%9B%EF%B8%8F;Web+Performance+Optimizer+%E2%9A%A1;Building+for+High-Traffic+Apps+%F0%9F%8F%86)
+![Anand's Tech Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=61DAFB&width=300&lines=Frontend+Engineer+%F0%9F%92%BB;React+%26+TypeScript+Developer+%E2%9A%9B%EF%B8%8F;Web+Performance+Engineer+%E2%9A%A1;Building+Scalable+Web+Applications+%F0%9F%8F%86)
 
----
-
-### 🌟 About Me
+# 💫 About Me:
 
 I'm a frontend developer with over 3 years of experience specializing in the React ecosystem. My focus is on building highly scalable UI systems and optimizing web performance for apps that deal with heavy traffic and real-time data flows (like live sports platforms with over a million active users). 
 
@@ -12,73 +10,39 @@ I'm a frontend developer with over 3 years of experience specializing in the Rea
 * ⚡ **My focus:** Slashing load times by 25-35% and getting Core Web Vitals into the green.
 * 🛠️ **Approach:** If a component isn't modular, accessible, and reusable, it's not finished.
 
----
+<br/>
 
-### 🎛️ Tech Stack & Ecosystem
+## 🌐 Find me here!
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white&logoWidth=20)](https://anandraj7.netlify.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://linkedin.com/in/anandraj77) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&logoWidth=20)](https://leetcode.com/anandraj077) [![CodeSandbox](https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white&logoWidth=20)](https://codesandbox.io/u/anandrajanand720) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:anandrajanand720@gmail.com)
 
-**Frontend Core:** ![React](https://img.shields.io/badge/React-23272F?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+<br/>
 
-**State & Data:** ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square) ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![Context API](https://img.shields.io/badge/Context--API-23272F?style=flat-square&logo=react&logoColor=61DAFB)
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white) ![REST API](https://img.shields.io/badge/REST-API-lightgrey?style=for-the-badge) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Babel](https://img.shields.io/badge/Babel-F9DC3e.svg?style=for-the-badge&logo=babel&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5.svg?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Testing Library](https://img.shields.io/badge/-TestingLibrary-%23E33332.svg?style=for-the-badge&logo=testing-library&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137.svg?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Context API](https://img.shields.io/badge/Context--API-000000?style=for-the-badge&logo=react) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/Redux-Toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
-**Performance & Analytics:** ![Web Vitals](https://img.shields.io/badge/Core__Web__Vitals-4285F4?style=flat-square&logo=googlechrome&logoColor=white) ![Lighthouse](https://img.shields.io/badge/Lighthouse-F44336?style=flat-square&logo=lighthouse&logoColor=white) ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+<br/>
 
-**Styling & UI Systems:** ![Tailwind CSS](https://img.shields.io/badge/Tailwind__CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white) ![Material UI](https://img.shields.io/badge/Material__UI-0081CB?style=flat-square&logo=mui&logoColor=white) ![Shadcn UI](https://img.shields.io/badge/Shadcn__UI-000000?style=flat-square&logo=shadcnui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+# 📌 Impact Snapshot
 
-**Backend & Architecture:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring__Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+* ⚡ 25–35% performance improvements delivered  
+* 👥 1M+ users served in real-time systems  
+* 🧩 25+ reusable UI components built  
 
-**Databases & Storage:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<br/>
 
-**Tools & Pipelines:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black) ![Cypress](https://img.shields.io/badge/Cypress-69C9D0?style=flat-square&logo=cypress&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=anandraj77&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com/?user=anandraj77&theme=dracula&hide_border=false" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=anandraj77&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandraj77&theme=react-dark&hide_border=true" />
+</p>
 
-### 📊 Engineering Telemetry
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-#### 📈 Commit & Code Base Insights
-![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-#### 🧪 Top Languages Used
-![Anand's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true)
-
-#### 📅 Production Activity Waveform
-![Anand's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=dark-green&hide_border=true)
-
----
-
-### 💼 What I've Done So Far
-
-#### **Frontend Developer (Product & Client Work)** | Remote
-*May 2023 – Present*
-*   Shipped production web apps for 8+ international clients, drastically upgrading frontend stability and component architecture.
-*   Boosted Core Web Vitals and initial load speeds by 25-35% using code splitting, dynamic imports, and heavy image optimization.
-*   Built a reusable React + TypeScript UI component library (25+ elements), keeping designs fully uniform while cutting frontend dev time by ~30%.
-
-#### **Frontend Developer** | Sportz Interactive
-*Jul 2021 – Apr 2023*
-*   Scaled live sports platforms to manage concurrent traffic spikes of 1M+ monthly active users without drops in frame rates.
-*   Designed the React + Redux architecture for intensive, live match day data-streams.
-*   Optimized asset loading and rendering pipelines under real-time conditions, saving 30% on initial rendering speed.
-
-#### **Frontend Developer** | Fasy.io
-*Aug 2020 – Jan 2021*
-*   Handled the frontend implementation entirely from Figma design file transitions to live deployment using React and Tailwind.
-*   Wired up a Socket.io live chat system supporting concurrent interactions without data delays.
-
----
-
-### 🚀 Highlighted Work
-
-*   **🏆 IPL/WPL Match Center:** Developed an optimized frontend engine for tracking real-time match data, designed to stay entirely stable under concurrency loads of 50K+ live users during match peaks.
-*   **🏑 FIH Sports Dashboard:** Built analytical reporting layers and match calendars for the International Hockey Federation with smooth rendering under rapid data updates.
-
----
-
-### 🤝 Let's Connect
-
-If you want to talk performance optimization, deep dive into modular UI architecture, or discuss frontend engineering roles, let's grab a coffee.
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anandrajanand720@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anandraj77)
-
----
-
-*Driven by clean interfaces, minimal layout reflows, and writing code that scales.* 😉

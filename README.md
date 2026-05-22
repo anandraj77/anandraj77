@@ -33,7 +33,6 @@ I'm a frontend developer with over 3 years of experience specializing in the Rea
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=anandraj77&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com/?user=anandraj77&theme=dracula&hide_border=false" />
 </p>
 

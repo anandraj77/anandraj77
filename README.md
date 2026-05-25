@@ -32,16 +32,19 @@ I'm a frontend developer with over 3 years of experience specializing in the Rea
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=anandraj77&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://streak-stats.demolab.com/?user=anandraj77&theme=dracula&hide_border=false" />
+  <img height="195" src="https://github-readme-stats.shion.dev/api?username=anandraj77&theme=dracula" />
+  <img height="195" src="https://streak-stats.demolab.com/?user=anandraj77&theme=dracula" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=anandraj77&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandraj77&theme=react-dark&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=anandraj77&layout=compact&theme=dracula" />
 </p>
 
-### ✍️ Random Dev Quote
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anandraj77&theme=react-dark&hide_border=true" />
+</p>
+
+
+### Dev Wisdom ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
